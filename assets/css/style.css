@@ -138,14 +138,14 @@ body {
   .work {
     position: relative;
     float: left;
-    width: 274px;
-    margin: 20px 0 20px;
+    width: 250px;
+    margin: 20px 40px 20px 0px;
     overflow: auto;
   }
   
-  .work:nth-child(even) {
+  /* .work:nth-child(even) {
     margin-right: 40px;
-  }
+  } */
   
   .work img {
     width: 100%;
@@ -261,7 +261,7 @@ body {
     .work {
         position: relative;
         float: left;
-        width: 274px;
+        width: 250px;
         margin: 20px 0 20px 135px;
         overflow: auto;
       }
@@ -280,4 +280,4 @@ body {
       }
     nav {
     margin-right: 200px;
-      }
+    }
